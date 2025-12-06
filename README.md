@@ -26,7 +26,10 @@ Make sure to run code in the newly created environment above.
 
  &emsp; **images_manifest_species.csv** - Raw feature data for each image for training models.  
 
- &emsp; **manifest_clean.csv** - Clean feature data for each image from training models.  
+ &emsp; **manifest_clean.csv** - Clean feature data for each image from training models.
+
+
+ &emsp; **Sample_manifest** - Feature data for sample data to compare to inferences in sample testing script.
 
  &emsp; **glossary.csv** - Glossary of text for a 1 or 0 for each feature as a lookup table for verbalization.  
 
